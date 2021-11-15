@@ -1,6 +1,6 @@
 ### Large-Scale AI Research Scientist @ KakaoBrain
 
-#### bigger models / more data / more computation
+#### bigger models / more data / more computations
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/wbaek)](https://linkedin.com/in/wbaek) 
