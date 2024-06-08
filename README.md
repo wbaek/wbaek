@@ -1,4 +1,4 @@
-### Large-Scale AI Research Scientist @ KakaoBrain
+### AI Researcher
 
 #### bigger models / more data / more computations
 
