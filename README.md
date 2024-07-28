@@ -2,5 +2,6 @@
 
 #### Research on Foundation Models and LLMs for Enhanced Effectiveness
 
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/wbaek)](https://github.com/wbaek)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/wbaek)](https://linkedin.com/in/wbaek) 
 [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en%26sortby=pubdate%26user=8WXfStMAAAAJ)](https://scholar.google.com/citations?hl=en&sortby=pubdate&user=8WXfStMAAAAJ) 
